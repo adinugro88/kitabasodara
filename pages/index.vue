@@ -2,7 +2,7 @@
   <div>
          <!-- LOADER -->
    <div id="preloader">
-         <img class="preloader" src="images/loading-img.gif" alt="">
+         <img class="preloader" src="//images/loading-img.gif" alt="">
       </div>
       <!-- END LOADER -->
       <section id="top">
@@ -13,7 +13,7 @@
                      <div class="col-md-6">
                         <div class="full">
                            <div class="logo">
-                              <a href="index.html"><img src="images/logo.png" alt="#" /></a>
+                              <a href="index.html"><img src="//images/logo.png" alt="#" /></a>
                            </div>
                         </div>
                      </div>
@@ -74,15 +74,15 @@
                                                       <div id="menCollection" class="carousel slide" data-ride="carousel">
                                                          <div class="carousel-inner">
                                                             <div class="item active">
-                                                               <div class="banner-for-match"><a href="#"><img class="img-responsive" src="images/match-banner1.jpg" alt="#" /></a></div>
+                                                               <div class="banner-for-match"><a href="#"><img class="img-responsive" src="/images/match-banner1.jpg" alt="#" /></a></div>
                                                             </div>
                                                             <!-- End Item -->
                                                             <div class="item">
-                                                               <div class="banner-for-match"><a href="#"><img class="img-responsive" src="images/match-banner1.jpg" alt="#" /></a></div>
+                                                               <div class="banner-for-match"><a href="#"><img class="img-responsive" src="/images/match-banner1.jpg" alt="#" /></a></div>
                                                             </div>
                                                             <!-- End Item -->
                                                             <div class="item">
-                                                               <div class="banner-for-match"><a href="#"><img class="img-responsive" src="images/match-banner1.jpg" alt="#" /></a></div>
+                                                               <div class="banner-for-match"><a href="#"><img class="img-responsive" src="/images/match-banner1.jpg" alt="#" /></a></div>
                                                             </div>
                                                             <!-- End Item -->                                
                                                          </div>
@@ -155,11 +155,9 @@
                         <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12"></div>
                         <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
                            <div class="slider-contant" data-animation="animated fadeInRight">
-                              <h3>If you Don’t Practice<br>You <span class="color-yellow">Don’t Derserve</span><br>to win!</h3>
-                              <p>If you use this site regularly and would like to help keep the site on the Internet,<br>
-                                 please consider donating a small sum to help pay..
-                              </p>
-                              <button class="btn btn-primary btn-lg">Read More</button>
+                              <h3>Manajemen  <br> <span class="color-yellow">Mitra Olahraga</span><br>Pertama Di Indonesia</h3>
+                              <p>buat Pertandingan Anda kini Lebih Menyenangkan<br></p>
+                              <button class="btn btn-primary btn-lg">Button</button>
                            </div>
                         </div>
                      </div>
@@ -171,8 +169,8 @@
                         <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12"></div>
                         <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
                            <div class="slider-contant" data-animation="animated fadeInRight">
-                              <h3>If you Don’t Practice<br>You <span class="color-yellow">Don’t Derserve</span><br>to win!</h3>
-                              <p>You can make a case for several potential winners of<br>the expanded European Championships.</p>
+                              <h3>Manajemen <br> <span class="color-yellow">Mitra Olahraga</span><br>Pertama Di Indonesia</h3>
+                              <p>buat Pertandingan Anda kini Lebih Menyenangkan<br></p>
                               <button class="btn btn-primary btn-lg">Button</button>
                            </div>
                         </div>
@@ -185,8 +183,8 @@
                         <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12"></div>
                         <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
                            <div class="slider-contant" data-animation="animated fadeInRight">
-                              <h3>If you Don’t Practice<br>You <span class="color-yellow">Don’t Derserve</span><br>to win!</h3>
-                              <p>You can make a case for several potential winners of<br>the expanded European Championships.</p>
+                              <h3>Manajemen<br> <span class="color-yellow">Mitra Olahraga</span><br>Pertama Di Indonesia</h3>
+                              <p>buat Pertandingan Anda kini Lebih Menyenangkan<br></p>
                               <button class="btn btn-primary btn-lg">Button</button>
                            </div>
                         </div>
@@ -231,12 +229,12 @@
                         <div class="team-btw-match">
                            <ul>
                               <li>
-                                 <img src="images/img-03.png" alt="">
+                                 <img src="/images/img-03.png" alt="">
                                  <span>Footbal Team</span>
                               </li>
                               <li class="vs"><span>vs</span></li>
                               <li>
-                                 <img src="images/img-04.png" alt="">
+                                 <img src="/images/img-04.png" alt="">
                                  <span>Super Team Club</span>
                               </li>
                            </ul>
@@ -269,7 +267,7 @@
                <div class="col-lg-4 col-sm-4 col-xs-12">
                   <aside id="sidebar" class="left-bar">
                      <div class="banner-sidebar">
-                        <img class="img-responsive" src="images/img-05.jpg" alt="#" />
+                        <img class="img-responsive" src="/images/img-05.jpg" alt="#" />
                         <h3>Lorem Ipsum is simply dummy text..</h3>
                      </div>
                   </aside>
@@ -279,56 +277,56 @@
                         <div class="team-btw-match">
                            <ul>
                               <li>
-                                 <img src="images/img-01_002.png" alt="">
+                                 <img src="/images/img-01_002.png" alt="">
                                  <span>Portugal</span>
                               </li>
                               <li class="vs"><span>vs</span></li>
                               <li>
-                                 <img src="images/img-02.png" alt="">
+                                 <img src="/images/img-02.png" alt="">
                                  <span>Germany</span>
                               </li>
                            </ul>
                            <ul>
                               <li>
-                                 <img src="images/img-03_002.png" alt="">
+                                 <img src="/images/img-03_002.png" alt="">
                                  <span>Portugal</span>
                               </li>
                               <li class="vs"><span>vs</span></li>
                               <li>
-                                 <img src="images/img-04_003.png" alt="">
+                                 <img src="/images/img-04_003.png" alt="">
                                  <span>Germany</span>
                               </li>
                            </ul>
                            <ul>
                               <li>
-                                 <img src="images/img-05_002.png" alt="">
+                                 <img src="/images/img-05_002.png" alt="">
                                  <span>Portugal</span>
                               </li>
                               <li class="vs"><span>vs</span></li>
                               <li>
-                                 <img src="images/img-06.png" alt="">
+                                 <img src="/images/img-06.png" alt="">
                                  <span>Germany</span>
                               </li>
                            </ul>
                            <ul>
                               <li>
-                                 <img src="images/img-07_002.png" alt="">
+                                 <img src="/images/img-07_002.png" alt="">
                                  <span>Portugal</span>
                               </li>
                               <li class="vs"><span>vs</span></li>
                               <li>
-                                 <img src="images/img-08.png" alt="">
+                                 <img src="/images/img-08.png" alt="">
                                  <span>Germany</span>
                               </li>
                            </ul>
                            <ul>
                               <li>
-                                 <img src="images/img-05_002.png" alt="">
+                                 <img src="/images/img-05_002.png" alt="">
                                  <span>Portugal</span>
                               </li>
                               <li class="vs"><span>vs</span></li>
                               <li>
-                                 <img src="images/img-06.png" alt="">
+                                 <img src="/images/img-06.png" alt="">
                                  <span>Germany</span>
                               </li>
                            </ul>
@@ -351,42 +349,42 @@
                            <tbody>
                               <tr>
                                  <td>1</td>
-                                 <td><img src="images/img-01_004.png" alt="">Liverpool</td>
+                                 <td><img src="/images/img-01_004.png" alt="">Liverpool</td>
                                  <td>10</td>
                                  <td>12</td>
                                  <td>20</td>
                               </tr>
                               <tr>
                                  <td>2</td>
-                                 <td><img src="images/img-02_002.png" alt="">Chelsea</td>
+                                 <td><img src="/images/img-02_002.png" alt="">Chelsea</td>
                                  <td>10</td>
                                  <td>12</td>
                                  <td>20</td>
                               </tr>
                               <tr>
                                  <td>3</td>
-                                 <td><img src="images/img-03_003.png" alt="">Norwich City</td>
+                                 <td><img src="/images/img-03_003.png" alt="">Norwich City</td>
                                  <td>20</td>
                                  <td>15</td>
                                  <td>20</td>
                               </tr>
                               <tr>
                                  <td>4</td>
-                                 <td><img src="images/img-04_002.png" alt="">West Brom</td>
+                                 <td><img src="/images/img-04_002.png" alt="">West Brom</td>
                                  <td>60</td>
                                  <td>10</td>
                                  <td>60</td>
                               </tr>
                               <tr>
                                  <td>5</td>
-                                 <td><img src="images/img-05.png" alt="">sunderland</td>
+                                 <td><img src="/images/img-05.png" alt="">sunderland</td>
                                  <td>30</td>
                                  <td>06</td>
                                  <td>30</td>
                               </tr>
                               <tr>
                                  <td>1</td>
-                                 <td><img src="images/img-01_004.png" alt="">Liverpool</td>
+                                 <td><img src="/images/img-01_004.png" alt="">Liverpool</td>
                                  <td>10</td>
                                  <td>12</td>
                                  <td>20</td>
@@ -395,7 +393,7 @@
                         </table>
                      </div>
                   </aside>
-                  <div class="content-widget top-story" style="background: url(images/top-story-bg.jpg);">
+                  <div class="content-widget top-story" style="background: url(/images/top-story-bg.jpg);">
                      <div class="top-stroy-header">
                         <h2>Top Soccer Headlines Story <a href="#" class="fa fa-fa fa-angle-right"></a></h2>
                         <span class="date">July 05, 2017</span>
@@ -416,7 +414,7 @@
                <div class="col-lg-8 col-sm-8 col-xs-12">
                   <div class="news-post-holder">
                      <div class="news-post-widget">
-                        <img class="img-responsive" src="images/img-01_002.jpg" alt="">
+                        <img class="img-responsive" src="/images/img-01_002.jpg" alt="">
                         <div class="news-post-detail">
                            <span class="date">20 march 2016</span>
                            <h2><a href="blog-detail.html">At vero eos et accusamus et iusto odio dignissimos ducimus</a></h2>
@@ -424,7 +422,7 @@
                         </div>
                      </div>
                      <div class="news-post-widget">
-                        <img class="img-responsive" src="images/img-02_003.jpg" alt="">
+                        <img class="img-responsive" src="/images/img-02_003.jpg" alt="">
                         <div class="news-post-detail">
                            <span class="date">20 march 2016</span>
                            <h2><a href="blog-detail.html">At vero eos et accusamus et iusto odio dignissimos ducimus</a></h2>
@@ -434,7 +432,7 @@
                   </div>
                   <div class="news-post-holder">
                      <div class="news-post-widget">
-                        <img class="img-responsive" src="images/img-03_003.jpg" alt="">
+                        <img class="img-responsive" src="/images/img-03_003.jpg" alt="">
                         <div class="news-post-detail">
                            <span class="date">20 march 2016</span>
                            <h2><a href="blog-detail.html">At vero eos et accusamus et iusto odio dignissimos ducimus</a></h2>
@@ -466,7 +464,7 @@
                <div class="col-md-12">
                   <div class="full">
                      <div class="match_vedio">
-                        <img class="img-responsive" src="images/img-07.jpg" alt="#" />
+                        <img class="img-responsive" src="/images/img-07.jpg" alt="#" />
                      </div>
                   </div>
                </div>
@@ -485,7 +483,7 @@
                <div class="container">
                   <div class="col-md-3">
                      <div class="team-column style-2">
-                        <img src="images/img-1-1.jpg" alt="">
+                        <img src="/images/img-1-1.jpg" alt="">
                         <div class="player-name">
                            <div class="desination-2">Defender</div>
                            <h5>Charles Wheeler</h5>
@@ -507,7 +505,7 @@
                   </div>
                   <div class="col-md-3">
                      <div class="team-column style-2">
-                        <img src="images/img-1-2.jpg" alt="">
+                        <img src="/images/img-1-2.jpg" alt="">
                         <div class="player-name">
                            <div class="desination-2">Defender</div>
                            <h5>Charles Wheeler</h5>
@@ -517,7 +515,7 @@
                   </div>
                   <div class="col-md-3">
                      <div class="team-column style-2">
-                        <img src="images/img-1-3.jpg" alt="">
+                        <img src="/images/img-1-3.jpg" alt="">
                         <div class="player-name">
                            <div class="desination-2">Defender</div>
                            <h5>Charles Wheeler</h5>
@@ -527,7 +525,7 @@
                   </div>
                   <div class="col-md-3">
                      <div class="team-column style-2">
-                        <img src="images/img-1-4.jpg" alt="">
+                        <img src="/images/img-1-4.jpg" alt="">
                         <div class="player-name">
                            <div class="desination-2">Defender</div>
                            <h5>Charles Wheeler</h5>
@@ -546,7 +544,7 @@
                   <div class="full">
                      <div class="footer-widget">
                         <div class="footer-logo">
-                           <a href="#"><img src="images/footer-logo.png" alt="#" /></a>
+                           <a href="#"><img src="/images/footer-logo.png" alt="#" /></a>
                         </div>
                         <p>Most of our events have hard and easy route choices as we are always keen to encourage new riders.</p>
                         <ul class="social-icons style-4 pull-left">
